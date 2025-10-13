@@ -71,7 +71,7 @@ cardano-cli conway transaction sign \
 ## Submit
 
 ```bash
-cardano-cli transaction submit \
+cardano-cli conway transaction submit \
 --mainnet \
 --tx-file tx.signed
 ```
