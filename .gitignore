@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+._*
+
+# Thumbnails
+Thumbs.db
+
+# macOS folder attributes
+.DS_Store?
+.Spotlight-V100
+.Trashes
