@@ -1,3 +1,1 @@
-https://developers.cardano.org/docs/operate-a-stake-pool/register-stake-pool
-
-## TODO
+Use https://developers.cardano.org/docs/operate-a-stake-pool/register-stake-pool

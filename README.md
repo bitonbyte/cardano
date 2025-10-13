@@ -1,4 +1,4 @@
-# 🪙 Cardano Node Setup Guide
+# 🪙 Cardano Stake Pool Setup Guide
 
 This repository provides detailed, step-by-step guidance for **Cardano stake pool operators (SPOs)** to set up, manage, and maintain their **relay** and **block-producing** nodes.
 
