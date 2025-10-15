@@ -1,16 +1,16 @@
 # Generate all keys
 
-## Directory Structure (Relay node)
+## Directory Structure (Block node)
 
 ```text
 $HOME/mainnet
-├── keys
+├── keys-payment
     ├── payment.skey
     ├── payment.vkey
+    ├── payment.addr
     ├── stake.skey
     ├── stake.vkey
-    ├── stake.addr
-    └── payment.addr
+    └── stake.addr
 ```
 
 ## Generate Payment Keys
