@@ -27,8 +27,15 @@ It’s based on real-world operator experience and aims to make the setup proces
 | [`notes/13_relay_block_peer_connectivity.md`](./notes/13_relay_block_peer_connectivity.md) | Connect Relay node to block node and to peers |
 | [`notes/14_pool_maintenance.md`](./notes/14_pool_maintenance.md) | Pool maintenance and rotating KES keys |
 | [`notes/15_pool_deregister.md`](./notes/15_pool_deregister.md) | Deregistering a Pool |
-| [`notes/16_clean_up.md`](./notes/16_clean_up.md) | Cleaning up files from localhost |
+| [`notes/16_stake_key_drep.md`](./notes/16_stake_key_drep.md) | Stake key delegation / DRep |
+| [`notes/17_stake_rewards_transfer.md`](./notes/17_stake_rewards_transfer.md) | Stake rewards transfer |
+| [`notes/18_stake_addr_deregister.md`](./notes/18_stake_addr_deregister.md) | Stake address deregistration |
+| [`notes/19_payment_addr_transfer.md`](./notes/19_payment_addr_transfer.md) | Payment address transfer |
+| [`notes/20_file_clean_up.md`](./notes/20_file_clean_up.md) | Cleaning up files from localhost |
 | [`scripts/`](./scripts) | Shell scripts to automate routine operations mentioned in the notes. |
+| [`scripts/01_certs_keys_backup.sh`](./scripts/01_certs_keys_backup.sh) | Backup certs and keys |
+| [`scripts/02_rotate_kes.sh`](./scripts/02_rotate_kes.sh) | Rotate KES keys |
+| [`scripts/03_generate-node-cert.sh`](./scripts/03_generate-node-cert.sh) | Generate node certificate |
 
 ---
 
